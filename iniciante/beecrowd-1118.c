@@ -29,8 +29,8 @@ int main()
     scanf("%d", &select);
 
     while (select != 1 && select != 2) {
-				printf("novo calculo (1-sim 2-nao)");
-				scanf("%d", &select);
+    	printf("novo calculo (1-sim 2-nao)");
+	scanf("%d", &select);
     }
     }
     return 0;
